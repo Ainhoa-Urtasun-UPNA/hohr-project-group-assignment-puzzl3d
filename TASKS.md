@@ -7,7 +7,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Need for medical, therapeutic and educational knowledge and advice
 * Young industry→ not very massified 
 * Durable, multi-purpose and environmentally friendly (Neutral Carbon Dioxide Emissions) 
-
+***
 * Your company's name:
 ***
 * PUZZL3D
