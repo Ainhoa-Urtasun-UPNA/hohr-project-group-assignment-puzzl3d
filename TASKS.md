@@ -1,29 +1,29 @@
 This writing uses Markdown, for help go to [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Task 1
-*Objective: analyze your industry and decide your primary and support activities
+Objective: analyze your industry and decide your primary and support activities
 * Manufacturing
 * Need for medical, therapeutic and educational knowledge and advice
 * Young industry→ not very massified 
 * Durable, multi-purpose and environmentally friendly (Neutral Carbon Dioxide Emissions) 
 ***
-* Your company's name:
+Your company's name:
 * PUZZL3D
 ***
-* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):
+Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):
 * 339930 - Doll, Toy, and Game Manufacturing: 
 * This industry comprises establishments primarily engaged in manufacturing complete dolls, doll parts, doll clothes, action figures, toys, games (including electronic), hobby kits, and children's vehicles (except metal bicycles and tricycles).
 ***
 
-*Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
+Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
-* Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
+Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
 * Hasbro Inc (5400), Mattel Inc (27000) and Jakks Pacific Inc (775)
 ***
-* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
+Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
 * 3345
 ***
-* List of your company's primary activities divided into engineering activities and operations activities:
+List of your company's primary activities divided into engineering activities and operations activities:
 * Medical and Therapeutic Analysis of blind kids’ necessities and innovative suggestions for product creation → 	Research: Engineering Activities 
 * Product design, material selection and prototyping → Engineering Activities 
 * Setting up tools and machinery and technical details → Operations Activities  
@@ -34,8 +34,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Supplier Relationships and distribution channels → Operations Activity
 ***
 
-
-* List of your company's support activities:
+List of your company's support activities:
 * HHRR department
 * Marketing and Promotional Department 
 * Finance and Accounting Department
