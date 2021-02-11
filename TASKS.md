@@ -1,7 +1,7 @@
 This writing uses Markdown, for help go to [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Task 1
-* Objective: analyze your industry and decide your primary and support activities
+*Objective: analyze your industry and decide your primary and support activities
 * Manufacturing
 * Need for medical, therapeutic and educational knowledge and advice
 * Young industry→ not very massified 
