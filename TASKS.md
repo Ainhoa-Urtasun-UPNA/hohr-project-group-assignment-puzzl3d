@@ -45,56 +45,58 @@ List of your company's support activities:
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
+ONET-SOC code and title:
+* 11-1021.00 - General and Operations Managers
+***
+5 most important tasks they carry out (provide the importance score, in Details):
+* Review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement. Score: 77
+* Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products. Score: 76
+* Direct administrative activities directly related to making products or providing services. Score: 75
+* Prepare staff work schedules and assign specific duties. Score: 73
+* Set prices or credit terms for goods or services, based on forecasts of customer demand. Score: 73
+***
+Is this job routine? Your judgment (0-10):
+* Routine level: 
+***
+Is this job cognitive? Your judgment (0-10):
+* Cognitive level:
+***
+5 most important skills they require to possess (provide the importance score, in Details):
+* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. Score: 75 
+* Coordination — Adjusting actions in relation to others' actions. Score: 75
+* Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action. Score: 75
+* Social Perceptiveness — Being aware of others' reactions and understanding why they react as they do. Score: 75
+* Speaking — Talking to others to convey information effectively. Score: 75
+***
+5 technology skills:
+* Accounting software 
+* Analytical or scientific software
+* Business intelligence and data analysis software
+* Customer relationship management CRM software
+* Data base user interface and query software
+***
+Education:
+* Bachelor's degree: 29% 
+* Some college, no degree: 19%
+* High school diploma or equivalent: 15%
+***
+Wages:
+* Median wages (2019): 	$48.45 hourly, $100,780 annual
+***
+Top industry:
+* Retail Trade (12% employed in this sector)
+* Professional, Scientific, and Technical Services (11%)
+***
+### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
 * Is this job routine? Your judgment (0-10):
 * Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
-* 5 technology skills:
+* 5 technology skills
 * Education:
 * Wages:
 * Top industry:
-### Engineers
-ONET-SOC code and title: 
-* 17-2031.00 - Bioengineers and Biomedical Engineers
-***
-5 most important tasks they carry out (provide the importance score, in Details):
-* Conduct research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals. Score:79
-* Adapt or design computer hardware or software for medical science uses. Score: 73
-* Evaluate the safety, efficiency, and effectiveness of biomedical equipment. Score: 72
-* Develop models or computer simulations of human biobehavioral systems to obtain data for measuring or controlling life processes. Score:71
-* Research new materials to be used for products, such as implanted artificial organs. Score: 68
-***
-Is this job routine? Your judgment (0-10):
-***
-Is this job cognitive? Your judgment (0-10):
-***
-5 most important skills they require to possess (provide the importance score, in Details):
-* Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Score: 81
-* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. Score: 78
-* Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions. Score: 78
-* Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one. Score: 78
-* Reading Comprehension — Understanding written sentences and paragraphs in work related documents. Score: 78
-***
-5 technology skills
-* Analytical or scientific software 
-* Computer aided design CAD software
-* Data base user interface and query software 
-* Development environment software
-* Enterprise resource planning ERP software
-***
-Education:
-* Bachelor's degree 53%
-* Master's degree 30%
-* Doctoral degree 7%
-***
-Wages: 
-* Median wages (2019)	$43.95 hourly, $91,410 annual
-***
-Top industry:
-* Manufacturing
-* Professional, Scientific, and Technical Services
-
 ### Operators
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
