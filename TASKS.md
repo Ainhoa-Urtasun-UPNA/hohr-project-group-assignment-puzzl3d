@@ -88,15 +88,46 @@ Top industry:
 * Professional, Scientific, and Technical Services (11%)
 ***
 ### Engineers
-* ONET-SOC code and title:
-* 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
-* 5 most important skills they require to possess (provide the importance score, in Details):
-* 5 technology skills
-* Education:
-* Wages:
-* Top industry:
+ONET-SOC code and title: 
+* 17-2031.00 - Bioengineers and Biomedical Engineers
+***
+5 most important tasks they carry out (provide the importance score, in Details):
+* Conduct research, along with life scientists, chemists, and medical scientists, on the engineering aspects of the biological systems of humans and animals. Score:79
+* Adapt or design computer hardware or software for medical science uses. Score: 73
+* Evaluate the safety, efficiency, and effectiveness of biomedical equipment. Score: 72
+* Develop models or computer simulations of human biobehavioral systems to obtain data for measuring or controlling life processes. Score:71
+* Research new materials to be used for products, such as implanted artificial organs. Score: 68
+***
+Is this job routine? Your judgment (0-10):
+***
+Is this job cognitive? Your judgment (0-10):
+***
+5 most important skills they require to possess (provide the importance score, in Details):
+* Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Score: 81
+* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. Score: 78
+* Complex Problem Solving — Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions. Score: 78
+* Judgment and Decision Making — Considering the relative costs and benefits of potential actions to choose the most appropriate one. Score: 78
+* Reading Comprehension — Understanding written sentences and paragraphs in work related documents. Score: 78
+***
+5 technology skills
+* Analytical or scientific software 
+* Computer aided design CAD software
+* Data base user interface and query software 
+* Development environment software
+* Enterprise resource planning ERP software
+***
+Education:
+* Bachelor's degree 53%
+* Master's degree 30%
+* Doctoral degree 7%
+***
+Wages: 
+* Median wages (2019)	$43.95 hourly, $91,410 annual
+***
+Top industry:
+* Manufacturing
+* Professional, Scientific, and Technical Services
+***
 ### Operators
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
