@@ -56,10 +56,12 @@ ONET-SOC code and title:
 * Set prices or credit terms for goods or services, based on forecasts of customer demand. Score: 73
 ***
 Is this job routine? Your judgment (0-10):
-* Routine level: 
+* Routine level: 5 
+* This job post is routinely in the sense that there are some task like reviewing financial statements, the measuring of performance data or schedule organisation that might be done regularly and in a more systematic way. However, most of the task do depend on each company's situation and ongoing internal and external events such as: sales performance, suppliers requirements, studying potential business opportunities or training employees so as to work with innovative tools. 
 ***
 Is this job cognitive? Your judgment (0-10):
-* Cognitive level:
+* Cognitive level: 9-10 
+* Tasks associated with this job require knowledge, critical thinking, communications and analytical minds. Usually, they do not involve any physical activity but the organisation and supervision of these. 
 ***
 5 most important skills they require to possess (provide the importance score, in Details):
 * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. Score: 75 
@@ -99,9 +101,13 @@ ONET-SOC code and title:
 * Research new materials to be used for products, such as implanted artificial organs. Score: 68
 ***
 Is this job routine? Your judgment (0-10):
+* Routine level: 3-4 
+* This job position involves task which are constantly changing. So, engineerings should be constantly learning and adapting to updates so as to provide suitable solutions and outcomes. 
 ***
 Is this job cognitive? Your judgment (0-10):
-***
+* Cognitive level: 9-10
+* Engineering tasks require technical knowledge and non-systematic processes. In this case, engineering do not manufacture products themselves but they design, programme and optimize computer and 3D printers so as to get the manufacturing process made by these tools. 
+*** 
 5 most important skills they require to possess (provide the importance score, in Details):
 * Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Score: 81
 * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. Score: 78
