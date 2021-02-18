@@ -25,7 +25,7 @@ Number of businesses in your NAICS code from [Market Research](https://www.naics
 ***
 List of your company's primary activities divided into engineering activities and operations activities:
 * Medical and Therapeutic Analysis of blind kids’ necessities and innovative suggestions for product creation → 	Research: Engineering Activities 
-* Product design, material selection and prototyping → Engineering Activities 
+* R&D Department: Product design, material selection and prototyping → Engineering Activities 
 * Setting up tools and machinery and technical details → Operations Activities  
 * Puzzle creation →Operations Activity  
 * Obtaining and handling inventory → Operations Activity 
@@ -35,10 +35,9 @@ List of your company's primary activities divided into engineering activities an
 ***
 
 List of your company's support activities:
-* HHRR department
+* HR department
 * Marketing and Promotional Department 
 * Finance and Accounting Department
-* R&D Department 
 * General Management 
 
 
