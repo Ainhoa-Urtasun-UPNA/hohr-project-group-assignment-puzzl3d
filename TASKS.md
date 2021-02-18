@@ -135,15 +135,48 @@ Top industry:
 * Professional, Scientific, and Technical Services
 ***
 ### Operators
-* ONET-SOC code and title:
-* 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
-* Is this job cognitive? Your judgment (0-10):
-* 5 most important skills they require to possess (provide the importance score, in Details):
-* 5 technology skills:
-* Education:
-* Wages:
-* Top industry:
+ONET-SOC code and title: 
+* 51-9082.00 - Medical Appliance Technicians
+***
+5 most important tasks they carry out (provide the importance score, in Details):
+* Drill and tap holes for rivets and glue, weld, bolt, or rivet parts together to form prosthetic or orthotic devices. Score: 86
+* Read prescriptions or specifications to determine the type of product or device to be fabricated and the materials and tools that will be required. Score: 86
+* Make orthotic or prosthetic devices, using materials such as thermoplastic and thermosetting materials, metal alloys and leather, and hand or power tools. Score: 85
+* Bend, form, and shape fabric or material to conform to prescribed contours of structural components. Score: 84
+* Construct or receive casts or impressions of patients' torsos or limbs for use as cutting and fabrication patterns. Score: 83
+***
+Is this job routine? Your judgment (0-10):
+* Routine level: 7
+* Compared to engineering and managing, operating tasks are more routine in the sense that they do not experiment with as many changes and updates as other tasks. Usually their tasks are more specific which allow them to become experts in those areas and perform their work in a more efficient way. Many times they are just a small essential piece in the whole production chain.
+***
+Is this job cognitive? Your judgment (0-10):
+* Cognitive level: 7
+* Although tasks could be sometimes automatic and physical, in this particular case as the company is in a relatively new and innovative sector, workers are required some additional skills such as 3D-printers knowledge, educational and psychological knowledge and soft skills (learnability and flexibility among others).
+***
+5 most important skills they require to possess (provide the importance score, in Details):
+* Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times. Score: 72
+* Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems. Score: 69
+* Quality Control Analysis — Conducting tests and inspections of products, services, or processes to evaluate quality or performance. Score: 69
+* Reading Comprehension — Understanding written sentences and paragraphs in work related documents. Score: 66
+* Speaking — Talking to others to convey information effectively. Score: 66
+***
+5 technology skills:
+* Computer aided design CAD software  — Autodesk AutoCAD; Ohio Willow Wood OMEGA Tracer System; SoftSource CADview; Vorum Research Corporation CANFIT-PLUS 
+* Computer aided manufacturing CAM software — Orthotic fabrication software
+* Medical software — Footmaxx Metascan software; Gait analysis software
+* Spreadsheet software — Microsoft Excel
+***
+Education:
+* Associate's degree 26% 
+* High school diploma or equivalent 21%
+* Bachelor’s degree 18%
+***
+Wages:
+* Median wages (2019): $19,56 hourly, $40,690 annual
+***
+Top industry:
+* Manufacturing
+* Health care and social assistance 
 ***
 
 ## Task 3
