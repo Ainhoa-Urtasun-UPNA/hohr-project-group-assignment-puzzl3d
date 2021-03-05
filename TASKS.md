@@ -191,7 +191,7 @@ Results:
 * Engineers= 0,5 - 1 engineer 
 * Operators= 1,816 - 2 operators
 
-Taking into account the average information of the industry and considering that currently in the company there is only the 4 of us, we expect to have one manager, one enegineer and two operators avoilable in one year from one. These numbers come from the results phyton has provided us. These are tretated as integrers as they make reference to number of employees. 
+Taking into account the average information of the industry and considering that currently in the company there is only the 4 of us, we expect to have one manager, one enegineer and two operators available in one year from one. These numbers come from the results phyton has provided us. These are tretated as integrers as they make reference to number of employees. 
 ***
 ## Task 4
 * Objective: forecast your firm's need for workers and anticipate mismatches using Python (click the black button at the top of the README.md file)
