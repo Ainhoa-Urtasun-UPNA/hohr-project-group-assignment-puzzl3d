@@ -187,9 +187,9 @@ You plan to start hiring workers next year. During this very first year, you are
 
 First, we need information regarding turnover and retention rates for each of the three occupations considered: managers, engineers and operator. We also need to known the number of employees in each occupation last year in our industry. And finally, we have to consider the current number of employees there are in each occupation in our own firm. As we have just launched the business we are 2 managers, 1 engineer and 1 operator. 
 Results: 
-*Managers= 0,76 - 1 managers 
-*Engineers= 0,5 - 1 engineer 
-*Operators= 1,816 - 2 operators
+* Managers= 0,76 - 1 manager
+* Engineers= 0,5 - 1 engineer 
+* Operators= 1,816 - 2 operators
 
 Taking into account the average information of the industry and considering that currently in the company there is only the 4 of us, we expect to have one manager, one enegineer and two operators avoilable in one year from one. These numbers come from the results phyton has provided us. These are tretated as integrers as they make reference to number of employees. 
 ***
