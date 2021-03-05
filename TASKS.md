@@ -185,6 +185,14 @@ Top industry:
 You plan to start hiring workers next year. During this very first year, you are its only workers, all managers. Yearly staff movements were, on average, as follows: Out of 15 managers, 5 stayed in the same occupation, 5 moved to operators, and 5 left the firm; Out of 20 engineers, 10 stayed in the same occupation, 2 moved to managers, 5 moved to operators, and 3 left the firm; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many managers, engineers, and operators you will have company will have in one year from now.
 ***
 
+First, we need information regarding turnover and retention rates for each of the three occupations considered: managers, engineers and operator. We also need to known the number of employees in each occupation last year in our industry. And finally, we have to consider the current number of employees there are in each occupation in our own firm. As we have just launched the business we are 2 managers, 1 engineer and 1 operator. 
+Results: 
+*Managers= 0,76 - 1 managers 
+*Engineers= 0,5 - 1 engineer 
+*Operators= 1,816 - 2 operators
+
+Taking into account the average information of the industry and considering that currently in the company there is only the 4 of us, we expect to have one manager, one enegineer and two operators avoilable in one year from one. These numbers come from the results phyton has provided us. These are tretated as integrers as they make reference to number of employees. 
+***
 ## Task 4
 * Objective: forecast your firm's need for workers and anticipate mismatches using Python (click the black button at the top of the README.md file)
 ***
