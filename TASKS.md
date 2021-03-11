@@ -200,6 +200,11 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 
 Last but not least, for each occupation, compare your predictions to anticipate mismatches.
 ***
+* First, we have taken into account historical unemployment and demand for managers, engineers and operators for the last three years. We have estimated the coefficients of the linear model (0.125, 3.083, 11.958 and 4.542). Expected unemployment data has been plot into the estimated linear model. According to the results, the company should expect to need 4 managers, 12 engineers and 7 operators in the near future. 
+* This data should be compared with the number of employees the company will have available in the near future (task 3). The company will count with 1 manager, 1 engineer and 2 operators. And, on the other hand, will have require  4 managers, 12 engineers and 7 operators. Consequently, as the demand is larger than the availability the company will have a shortage of labor force. In order to avoid this potential labour mismatches several HR planning measures should be taken. Some of this upsizing preventing actions would be hiring, increasing workweek and increasing overtime hours. 
+* Regarding hiring strategy it is believed the company will have to recruit 3 managers as the company is young and managers should not be additionally pressured with overtime shcedules. With respect to engineers as it is crucial for the company to develop a high quality initial product, it does not seem sensible to skimp on this aspect. Therefore, 10 new engineers will be hired. Addtionally, so as to offset the lack of one more engineer, the company will apply overtime upsizing strategy. 
+* Last but not least, regarding operators we will hire 3 more employees. As before, so as to offset the remaining labour force needs, the company will have to increase employee's workweek at least for the first financial year. This means. job weekly schedules will be based on more working hours. 
+* 
 
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
