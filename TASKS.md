@@ -251,13 +251,17 @@ Salary, benefits and perks:
 
 ### Job posting for Engineers:
 Job title: Product Design Engineer 
+
 Occupation: 17-2031.00 - Bioengineers and Biomedical Engineers
+
 Industry:339930- Doll, Toy and Game Manufacturing
+
 Task:
 * Conduct research regarding the market and potential users' needs.
 * Design and oversight computer hardware or software for medical science uses
 * Research new materials to be used for products. 
 * Evaluate ultimate efficiency, safety and quality of the product.
+
 Skills:
 * High knowlegde of 3D- printers and associated hardwares and software.
 * Critical Thinking 
@@ -270,24 +274,33 @@ Skills:
 * Data base user interface and query software 
 * Development environment software
 * Enterprise resource planning ERP software
+
 Required Credentials:
 * Bachelor degree in Product Design, Computer Engineering. Additional academic experience such as PhD. 
 * Certificates on knowledged regarding different computer programmes such as: Matlab, 3D printing softwares, etc 
 * Minimum experience of 2 years working on similar roles. 
+
 Job type: 
 * Full time. 40 hours weekly. 
+
 Location:
 * Remote: teleworking. 
+
 Salary, benefits and perks:
 * Base annual salary:$78,000 with option for bonuses. Salary is expected to be reconsidered according to the company's good performance.
+
 ### Job posting for Operators:
 Job title: Product Technician and Operator
+
 Occupation: 51-9082.00 - Medical Appliance Technicians
+
 Industry: 339930- Doll, Toy and Game Manufacturing
+
 Task:
 * Read prescriptions or specifications to determine the type of product or device to be fabricated and the materials and tools that will be required. 
 * Controll machines operations, engine failures, reparations, maintainance and improvements. 
 * Quality controls, detect problems and suggest improvements. 
+
 Skills:
 * Active Listening 
 * Critical Thinking 
@@ -298,14 +311,19 @@ Skills:
 * Computer aided manufacturing CAM software — Orthotic fabrication software
 * Medical software — Footmaxx Metascan software; Gait analysis software
 * Spreadsheet software — Microsoft Excel
+
 Required Credentials:
-Professional Education or Bachelor Degree related to mechanics, electricity, 3D printing, etc. 
+* Professional Education or Bachelor Degree related to mechanics, electricity, 3D printing, etc. 
+
 Job type:
 * Full time. 30 hours weekly. Option to overtime hours depending demand necessities. 
+
 Location:
 * To be determined. 
+
 Salary, benefits and perks:
 * Base annual salary:$45,000. 
+
 ***
 
 ## Task 6
