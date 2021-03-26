@@ -202,15 +202,101 @@ Last but not least, for each occupation, compare your predictions to anticipate 
 ***
 * First, we have taken into account historical unemployment and demand for managers, engineers and operators for the last three years. We have estimated the coefficients of the linear model (0.125, 3.083, 11.958 and 4.542). Expected unemployment data has been plot into the estimated linear model. According to the results, the company should expect to need 4 managers, 12 engineers and 7 operators in the near future. 
 * This data should be compared with the number of employees the company will have available in the near future (task 3). The company will count with 1 manager, 1 engineer and 2 operators. And, on the other hand, will have require  4 managers, 12 engineers and 7 operators. Consequently, as the demand is larger than the availability the company will have a shortage of labor force. In order to avoid this potential labour mismatches several HR planning measures should be taken. Some of this upsizing preventing actions would be hiring, increasing workweek and increasing overtime hours. 
-* Regarding hiring strategy it is believed the company will have to recruit 3 managers as the company is young and managers should not be additionally pressured with overtime shcedules. With respect to engineers as it is crucial for the company to develop a high quality initial product, it does not seem sensible to skimp on this aspect. Therefore, 10 new engineers will be hired. Addtionally, so as to offset the lack of one more engineer, the company will apply overtime upsizing strategy. 
-* Last but not least, regarding operators we will hire 3 more employees. As before, so as to offset the remaining labour force needs, the company will have to increase employee's workweek at least for the first financial year. This means. job weekly schedules will be based on more working hours. 
+* Regarding hiring strategy it is believed the company will have to recruit 2 managers as the company is young and managers should not be additionally pressured with overtime shcedules. 
+* With respect to engineers as it is crucial for the company to develop a high quality initial product, it does not seem sensible to skimp on this aspect. Therefore, 7 new engineers will be hired. This decision is based on the fact that once the engineers have designed and created the software, the workload will be considerably reduced. Therefore hiring a higher number of engineers will created surplus of these in the future. Addtionally, so as to offset the lack of one more engineer, the company will apply overtime upsizing strategy. 
+* Last but not least, regarding operators we will hire 3 more employees. As before, so as to offset the remaining labour force needs, the company will have to increase employee's workweek at least for the first financial year. This means. job weekly schedules will be based on more working hours. The reasoning behind this decisions is the considerable risk of automation. It is believed that some of operators' task could be replaced by technology in the near future. 
 
 ## Task 5
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
+
 ***
 ### Job posting for Managers:
+Job title: General and Operations Manager 
+Occupation:11-1021.00 - General and Operations Managers
+Industry: 339930- Doll, Toy and Game Manufacturing
+Task: 
+* Schedule, direct and coordinate activities along the whole process. 
+* Review the performance data to measure productivity and suggest potential improvements and strategies
+* Make main decisions regarding prices, supply and entry in new markets based on forecast on customers' demand.
+* Organise the staff and provide guidance on their duties
+Skills:
+* Active Listening 
+* Coordination 
+* Monitoring 
+* Social Perceptiveness
+* Speaking 
+* Accounting software 
+* Analytical or scientific software
+* Business intelligence and data analysis software
+* Customer relationship management CRM software
+* Data base user interface and query software
+Required Credentials:
+* Bachelor degree in related field. Additional academic experience such as MBA or other PdH will be taken into consideration. 
+* Minimum experience of 4 years working on similar management roles
+* Recommendation and motivation letters required. 
+Job type:
+* Full-time with flexibility. 40 hours per week.
+Location:
+* Remote: teleworking. 
+Salary, benefits and perks:
+* Base annual salary:$90,000 with option for bonuses. Salary is expected to be reconsidered according to the company's good performance.
 ### Job posting for Engineers:
+Job title: Product Design Engineer 
+Occupation: 17-2031.00 - Bioengineers and Biomedical Engineers
+Industry:339930- Doll, Toy and Game Manufacturing
+Task:
+* Conduct research regarding the market and potential users' needs.
+* Design and oversight computer hardware or software for medical science uses
+* Research new materials to be used for products. 
+* Evaluate ultimate efficiency, safety and quality of the product.
+Skills:
+* High knowlegde of 3D- printers and associated hardwares and software.
+* Critical Thinking 
+* Active Listening 
+* Complex Problem Solving 
+* Judgment and Decision Making 
+* Reading Comprehension 
+* Analytical or scientific software 
+* Computer aided design CAD software
+* Data base user interface and query software 
+* Development environment software
+* Enterprise resource planning ERP software
+Required Credentials:
+* Bachelor degree in Product Design, Computer Engineering. Additional academic experience such as PhD. 
+* Certificates on knowledged regarding different computer programmes such as: Matlab, 3D printing softwares, etc 
+* Minimum experience of 2 years working on similar roles. 
+Job type: 
+* Full time. 40 hours weekly. 
+Location:
+* Remote: teleworking. 
+Salary, benefits and perks:
+* Base annual salary:$78,000 with option for bonuses. Salary is expected to be reconsidered according to the company's good performance.
 ### Job posting for Operators:
+Job title: Product Technician and Operator
+Occupation: 51-9082.00 - Medical Appliance Technicians
+Industry: 339930- Doll, Toy and Game Manufacturing
+Task:
+* Read prescriptions or specifications to determine the type of product or device to be fabricated and the materials and tools that will be required. 
+* Controll machines operations, engine failures, reparations, maintainance and improvements. 
+* Quality controls, detect problems and suggest improvements. 
+Skills:
+* Active Listening 
+* Critical Thinking 
+* Quality Control Analysis
+* Reading Comprehension
+* Speaking
+* Computer aided design CAD software  
+* Computer aided manufacturing CAM software — Orthotic fabrication software
+* Medical software — Footmaxx Metascan software; Gait analysis software
+* Spreadsheet software — Microsoft Excel
+Required Credentials:
+Professional Education or Bachelor Degree related to mechanics, electricity, 3D printing, etc. 
+Job type:
+* Full time. 30 hours weekly. Option to overtime hours depending demand necessities. 
+Location:
+* To be determined. 
+Salary, benefits and perks:
+* Base annual salary:$45,000. 
 ***
 
 ## Task 6
