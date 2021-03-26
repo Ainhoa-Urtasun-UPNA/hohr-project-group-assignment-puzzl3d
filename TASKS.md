@@ -212,13 +212,17 @@ Last but not least, for each occupation, compare your predictions to anticipate 
 ***
 ### Job posting for Managers:
 Job title: General and Operations Manager 
+
 Occupation:11-1021.00 - General and Operations Managers
+
 Industry: 339930- Doll, Toy and Game Manufacturing
+
 Task: 
 * Schedule, direct and coordinate activities along the whole process. 
 * Review the performance data to measure productivity and suggest potential improvements and strategies
 * Make main decisions regarding prices, supply and entry in new markets based on forecast on customers' demand.
 * Organise the staff and provide guidance on their duties
+
 Skills:
 * Active Listening 
 * Coordination 
@@ -230,16 +234,21 @@ Skills:
 * Business intelligence and data analysis software
 * Customer relationship management CRM software
 * Data base user interface and query software
+
 Required Credentials:
 * Bachelor degree in related field. Additional academic experience such as MBA or other PdH will be taken into consideration. 
 * Minimum experience of 4 years working on similar management roles
 * Recommendation and motivation letters required. 
+
 Job type:
 * Full-time with flexibility. 40 hours per week.
+
 Location:
 * Remote: teleworking. 
+
 Salary, benefits and perks:
 * Base annual salary:$90,000 with option for bonuses. Salary is expected to be reconsidered according to the company's good performance.
+
 ### Job posting for Engineers:
 Job title: Product Design Engineer 
 Occupation: 17-2031.00 - Bioengineers and Biomedical Engineers
