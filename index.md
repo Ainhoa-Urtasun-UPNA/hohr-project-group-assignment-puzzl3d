@@ -2,6 +2,7 @@
 
 * (NAICS - 339930 Doll, Toy and Game Manufacturing)
 
+![Image](Dibujo sin título-2.jpg)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
