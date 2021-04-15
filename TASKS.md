@@ -249,6 +249,8 @@ Location:
 Salary, benefits and perks:
 * Base annual salary:$90,000 with option for bonuses. Salary is expected to be reconsidered according to the company's good performance.
 
+Automation risk: 16%
+
 ### Job posting for Engineers:
 Job title: Product Design Engineer 
 
@@ -289,6 +291,8 @@ Location:
 Salary, benefits and perks:
 * Base annual salary:$78,000 with option for bonuses. Salary is expected to be reconsidered according to the company's good performance.
 
+Automation risk: 1%
+
 ### Job posting for Operators:
 Job title: Product Technician and Operator
 
@@ -323,6 +327,8 @@ Location:
 
 Salary, benefits and perks:
 * Base annual salary:$45,000. 
+
+Automation risk: 91%
 
 ***
 
