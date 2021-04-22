@@ -7,7 +7,7 @@
 ![Image](activities.jpg)
 
 
-![Image](job.PNG)
+![Image](Job.jpg)
 
 ![Image](Imagejob.png)
 
