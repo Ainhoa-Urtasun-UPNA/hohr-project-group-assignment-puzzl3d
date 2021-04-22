@@ -3,7 +3,7 @@
 
 * NAICS - 339930 Doll, Toy and Game Manufacturing
 
-![Image](Activities.jpg)
+![Image](ACTIVITIES.png)
 
 
 
